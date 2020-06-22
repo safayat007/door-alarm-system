@@ -13,4 +13,4 @@ The HC-SR04 ultrasonic sensor is a cheap ranging sensor capable of measuring a d
 # Schematics : 
 ![Schematics](door-alarm.jpg)
 # Code : 
-[Code Link](Door_Alarm_System)
+[Code Link](Door_Alarm_System.ino)
